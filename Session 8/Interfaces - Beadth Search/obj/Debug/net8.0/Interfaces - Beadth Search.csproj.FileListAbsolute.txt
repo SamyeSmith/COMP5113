@@ -1,0 +1,5 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 8\Interfaces - Beadth Search\obj\Debug\net8.0\Interfaces - Beadth Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 8\Interfaces - Beadth Search\obj\Debug\net8.0\Interfaces - Beadth Search.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 8\Interfaces - Beadth Search\obj\Debug\net8.0\Interfaces - Beadth Search.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 8\Interfaces - Beadth Search\obj\Debug\net8.0\Interfaces - Beadth Search.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 8\Interfaces - Beadth Search\obj\Debug\net8.0\Interfaces - Beadth Search.sourcelink.json

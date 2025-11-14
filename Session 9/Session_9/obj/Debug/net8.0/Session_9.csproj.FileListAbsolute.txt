@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\bin\Debug\net8.0\Session_9.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\bin\Debug\net8.0\Session_9.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\bin\Debug\net8.0\Session_9.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\bin\Debug\net8.0\Session_9.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\bin\Debug\net8.0\Session_9.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\refint\Session_9.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\Session_9.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 9\Session_9\obj\Debug\net8.0\ref\Session_9.dll
