@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\bin\Debug\net8.0\FoxGame.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\bin\Debug\net8.0\FoxGame.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\bin\Debug\net8.0\FoxGame.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\bin\Debug\net8.0\FoxGame.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\bin\Debug\net8.0\FoxGame.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\refint\FoxGame.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\FoxGame.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\FoxGame\obj\Debug\net8.0\ref\FoxGame.dll

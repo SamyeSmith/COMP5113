@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\bin\Debug\net8.0\Main.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\bin\Debug\net8.0\Main.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 5\Main\obj\Debug\net8.0\ref\Main.dll
