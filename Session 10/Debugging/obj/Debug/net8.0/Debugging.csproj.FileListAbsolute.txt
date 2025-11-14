@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\bin\Debug\net8.0\Debugging.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\bin\Debug\net8.0\Debugging.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\bin\Debug\net8.0\Debugging.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\bin\Debug\net8.0\Debugging.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\bin\Debug\net8.0\Debugging.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\refint\Debugging.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\Debugging.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 10\Debugging\obj\Debug\net8.0\ref\Debugging.dll

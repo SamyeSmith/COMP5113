@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\bin\Debug\net8.0\Priority.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\bin\Debug\net8.0\Priority.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\bin\Debug\net8.0\Priority.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\bin\Debug\net8.0\Priority.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\bin\Debug\net8.0\Priority.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\refint\Priority.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\Priority.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 11\Priority\obj\Debug\net8.0\ref\Priority.dll
