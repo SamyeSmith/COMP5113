@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\bin\Debug\net8.0\Grid_Searches.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\bin\Debug\net8.0\Grid_Searches.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\bin\Debug\net8.0\Grid_Searches.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\bin\Debug\net8.0\Grid_Searches.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\bin\Debug\net8.0\Grid_Searches.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\refint\Grid_Searches.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\Grid_Searches.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Searches\obj\Debug\net8.0\ref\Grid_Searches.dll

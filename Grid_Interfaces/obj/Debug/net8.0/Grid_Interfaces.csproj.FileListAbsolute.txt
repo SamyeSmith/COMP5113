@@ -1,0 +1,15 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\bin\Debug\net8.0\Grid_Interfaces.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\bin\Debug\net8.0\Grid_Interfaces.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\bin\Debug\net8.0\Grid_Interfaces.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\bin\Debug\net8.0\Grid_Interfaces.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\bin\Debug\net8.0\Grid_Interfaces.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\refint\Grid_Interfaces.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\Grid_Interfaces.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 12\Grid_Interfaces\obj\Debug\net8.0\ref\Grid_Interfaces.dll
