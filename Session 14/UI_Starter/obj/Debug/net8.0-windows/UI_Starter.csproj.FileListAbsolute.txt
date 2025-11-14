@@ -1,0 +1,17 @@
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\bin\Debug\net8.0-windows\UI_Starter.exe
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\bin\Debug\net8.0-windows\UI_Starter.deps.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\bin\Debug\net8.0-windows\UI_Starter.runtimeconfig.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\bin\Debug\net8.0-windows\UI_Starter.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\bin\Debug\net8.0-windows\UI_Starter.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.Form1.resources
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.csproj.GenerateResource.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.AssemblyInfoInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.AssemblyInfo.cs
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.csproj.CoreCompileInputs.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.sourcelink.json
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\refint\UI_Starter.dll
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.pdb
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\UI_Starter.genruntimeconfig.cache
+C:\Users\aws.admin\source\repos\SamyeSmith\Labs-COM5113\Session 14\UI_Starter\obj\Debug\net8.0-windows\ref\UI_Starter.dll
